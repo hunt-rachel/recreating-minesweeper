@@ -659,9 +659,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9edbc34d7fe24d4439be9632154ec637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  width: 2
-  height: 2
-  mineCount: 1
+  width: 16
+  height: 16
+  mineCount: 40
   flagCount: 0
   gameOver: 0
   wonGame: 0
